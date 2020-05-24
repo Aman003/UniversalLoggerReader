@@ -1,0 +1,2 @@
+# UniversalLoggerReader
+This application is basically helpful for developers to analyze logs from one entry point of a class to exit in another class. Like in web application if one request goes through different modules in that case they have to open multiple files to analyze the logs to find the root cause. This application will take all your expected log file and give you one log file which will have all the logs which give more clarity and increase productivity of developers to resolve issues.
